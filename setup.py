@@ -1,6 +1,6 @@
 from setuptools import setup
 
-package_name = 'turtlebot_utilities'
+package_name = 'turtlebot3_utilities'
 
 setup(
     name=package_name,
@@ -14,9 +14,9 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='rajaonsl',
-    maintainer_email='lois.rajaonson@grenoble-inp.fr',
+    maintainer_email='lois.rajaonson@grenoble-inp.pro',
     description='Various utility nodes for turtlebot3',
-    license=' MIT License   |   Copyright (c) 2023 rajaonsl',
+    license='MIT',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
