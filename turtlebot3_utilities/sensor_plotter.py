@@ -1,4 +1,5 @@
 """
+NOT A ROS2 NODE
 Plotting for 360° range sensor data
 
 NOTE: The turtlebot3 can come with 2 different LiDAR sensors

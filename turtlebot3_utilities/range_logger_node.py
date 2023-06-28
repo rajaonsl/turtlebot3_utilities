@@ -1,5 +1,5 @@
 """
-Node used for logging turtlebot range measurements in a file
+ROS2 Node used for logging turtlebot range measurements in a file
 """
 
 import rclpy

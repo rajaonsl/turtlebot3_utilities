@@ -1,5 +1,5 @@
 """
-Node used for plotting turtlebot range measurements on a canvas
+ROS2 Node used for plotting turtlebot range measurements on a canvas
 """
 
 # ROS libraries
