@@ -1,5 +1,5 @@
 # turtlebot3_utilities
- Various utility classes and ROS2 nodes for the turtlebot3 (and other rangee sensors)
+ Various utility classes and ROS2 nodes for the turtlebot3 (and other range sensors)
 
 *Author: L. Rajaonson | Supervisors: S. Gay, I. Prodan | Internship at LCIS (Valence, FR). 2023*
 # Sensor Plotter
