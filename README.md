@@ -22,7 +22,7 @@ Save range measurements in a text file, and read them back.
 
 Plotting requires the standard Python library `tkinter`, which already comes with most Python installations (check with `python -m tkinter`)
 
-Using the ROS nodes requires a working installation of ROS2 (preferably `humble` or `foxy`).
+Using the ROS nodes requires a working installation of ROS2 (preferably `humble` or `foxy`). If you don't have that, check the [wiki](https://github.com/rajaonsl/turtlebot3_utilities/wiki).
 
 ## Building ROS2 package (to run nodes)
 
