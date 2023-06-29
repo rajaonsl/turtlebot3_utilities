@@ -8,7 +8,7 @@ from rclpy.node import Node
 from rclpy.qos import QoSProfile, QoSReliabilityPolicy
 from sensor_msgs.msg import LaserScan
 
-from turtlebot3_utilites.sensor_plotter import SensorPlotter
+from turtlebot3_utilities.sensor_plotter import SensorPlotter
 
 # Forcing the max range value to 3.5. In simulation, this is not an issue,
 # as the max_range returned by the sensor is already correct. However, on

@@ -20,8 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "sensor_plot_node = turtlebot_utilites.sensor_plotter_node:main",
-            "range_logger_node = turtlebot_utilities.range_logger_node:main"
+            "sensor_plot_node = turtlebot3_utilities.sensor_plotter_node:main",
+            "range_logger_node = turtlebot3_utilities.range_logger_node:main"
         ],
     },
 )
