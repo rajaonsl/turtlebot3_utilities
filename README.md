@@ -28,11 +28,11 @@ Using the ROS nodes requires a working installation of ROS2 (preferably `humble`
 
 Clone the repository into the source folder (src) of your desired ROS workspace. Then simply build the package using colcon:
 
-    colcon build --packages-select turtlebot3_utilities --symlink-install
+    my_workspace$ colcon build --packages-select turtlebot3_utilities --symlink-install
 
 Don't forget to source your workspace:
 
-    source ~/EXAMPLE/REPLACE_THIS_PATH/my_workspace/install/setup.bash
+    my_workspace$ source ~/EXAMPLE/REPLACE_THIS_PATH/my_workspace/install/setup.bash
 
 ## Installing as a Python package (to import and reuse)
 
