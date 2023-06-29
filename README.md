@@ -30,8 +30,12 @@ Clone the repository into the source folder (src) of your desired ROS workspace.
 
     colcon build --packages-select turtlebot3_utilities --symlink-install
 
+Don't forget to source your workspace:
+
+    source ~/EXAMPLE/REPLACE_THIS_PATH/my_workspace/install/setup.bash
+
 ## Installing as a Python package (to import and reuse)
 
-To import and reuse the classes defined here, install the repository as a package, using pip:
+Without ROS, you can still import and reuse the classes defined here, install the repository as a package, using pip:
 
-    -TODO
+    turtlebot3_utilities$ pip install -e .
