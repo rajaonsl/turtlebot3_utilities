@@ -9,6 +9,8 @@ Easily visualize LiDAR measurements on a canvas.
 
 - `sensor_plotter` defines the underlying class (*SensorPlotter*) that is used for plotting measurements. It can be imported and used separately in your own programs to plot measurements.
 
+![](sensor_plotter_example.png)
+
 # Range Logger
 Save range measurements in a text file, and read them back. 
 
